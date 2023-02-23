@@ -2,6 +2,7 @@ package pilas;
 /*
 Interfaz que representa las caracteristicas necesarias de una para emplear en la lectura de datos
 */
+import java.util.EmptyStackException;
 
 public interface IList<T> {
 
