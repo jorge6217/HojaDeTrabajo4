@@ -2,7 +2,6 @@ package folder;
 /*
 Sirve para convertir de Infix a Postfix
 */
-import stack.StackVector;
 
 public class TurnInfixToPostfix {
 	private static TurnInfixToPostfix instance;

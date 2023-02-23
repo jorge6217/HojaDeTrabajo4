@@ -3,8 +3,6 @@ package pilas;
 Interfaz que representa las caracteristicas necesarias de una para emplear en la lectura de datos
 */
 
-import stack;
-
 public interface IList<T> {
 
 
